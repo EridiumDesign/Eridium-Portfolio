@@ -3,5 +3,5 @@ Personal portfolio I made a few weeks ago. Looking forward to some feedback and 
 
 custom.css might be a bit confusing to read, sry about that!
 
-Download FolioNex.zip and umcompress it
+Download FolioNew.zip and umcompress it
 MAMP or WAMP needed
